@@ -6,6 +6,7 @@
     <classes>
       <class name="test.TestSimpleLoginOrange"/>
       <class name="test.LoginOrangeWithPageObject"/>
+      <class name="test.TestSimpleSelenium"/>
     </classes>
   </test> 
 </suite>
