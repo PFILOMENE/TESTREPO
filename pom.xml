@@ -45,6 +45,13 @@
 						<suiteXmlFile>testNG.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
+				<dependencies>
+					<dependency>
+						<groupId>org.apache.maven.surefire</groupId>
+						<artifactId>surefire-testng</artifactId>
+						<version>3.5.3</version>
+					</dependency>
+				</dependencies>
 			</plugin>
 
 		</plugins>
